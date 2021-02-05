@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OCPod_Tests' do
+  pod 'OCPod', :path => '../'
+  
+  
+end
