@@ -1,0 +1,6 @@
+framework module OCPod {
+  umbrella header "OCPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
